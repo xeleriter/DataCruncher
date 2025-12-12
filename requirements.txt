@@ -1,0 +1,10 @@
+pdfplumber==0.10.3
+openpyxl==3.1.2
+easyocr==1.7.0
+Pillow
+# cryptography==41.0.7  # Sometimes needed
+openpyxl
+pdf2image
+numpy
+PyMuPDF
+pytesseract
